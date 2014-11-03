@@ -1,0 +1,12 @@
+set number
+set smartindent
+set autoindent
+set formatoptions=tcqro
+set showcmd
+set nowrap
+set incsearch
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set smarttab
+set backspace=indent,eol,start
